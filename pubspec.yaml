@@ -1,4 +1,4 @@
-name: timeago_workspace
+name: timeago
 
 environment:
   sdk: ">=3.7.0 <4.0.0"
